@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101271429075",
+    "project_id": "localcrud-56dba",
+    "storage_bucket": "localcrud-56dba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101271429075:android:28e7907780d6b6c6a91926",
+        "android_client_info": {
+          "package_name": "com.example.localdbcrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101271429075-8i0ok0lggf8srmbjbtj253t7r8r8e3b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8nnFAk7YtDzSwPN2a9eC7Lec58ursjf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101271429075-8i0ok0lggf8srmbjbtj253t7r8r8e3b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
